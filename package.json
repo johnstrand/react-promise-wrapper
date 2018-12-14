@@ -1,0 +1,22 @@
+{
+  "name": "react-promise-wrapper",
+  "version": "1.0.0",
+  "description": "I wouldn't bother with this",
+  "main": "dist/PromiseWrapper.js",
+  "types": "dist/PromiseWrapper.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnstrand/react-promise-wrapper"
+  },
+  "scripts": {
+    "build": "node_modules/.bin/tsc"
+  },
+  "author": "John Strand",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.1.0",
+    "react": "^16.2.0",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {}
+}
