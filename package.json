@@ -1,7 +1,7 @@
 {
-  "name": "react-promise-wrapper",
+  "name": "react-promise-unwrapper",
   "version": "1.0.0",
-  "description": "I wouldn't bother with this",
+  "description": "Simple helper that wraps a promise and throws errors that error boundaries can catch",
   "main": "dist/PromiseWrapper.js",
   "types": "dist/PromiseWrapper.d.ts",
   "repository": {
